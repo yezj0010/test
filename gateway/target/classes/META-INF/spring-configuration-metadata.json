@@ -1,0 +1,32 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.tomcat360.gateway.properties.AppProperties",
+      "name": "appConfig",
+      "type": "com.tomcat360.gateway.properties.AppProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.tomcat360.gateway.properties.AppProperties",
+      "name": "appConfig.app-name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.tomcat360.gateway.properties.AppProperties",
+      "name": "appConfig.app-name-cn",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.tomcat360.gateway.properties.AppProperties",
+      "name": "appConfig.token-day",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.tomcat360.gateway.properties.AppProperties",
+      "name": "appConfig.token-key",
+      "type": "java.lang.String"
+    }
+  ]
+}

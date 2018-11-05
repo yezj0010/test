@@ -1,0 +1,22 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.tomcat360.timer.properties.AppProperties",
+      "name": "appConfig",
+      "type": "com.tomcat360.timer.properties.AppProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.tomcat360.timer.properties.AppProperties",
+      "name": "appConfig.app-name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.tomcat360.timer.properties.AppProperties",
+      "name": "appConfig.app-name-cn",
+      "type": "java.lang.String"
+    }
+  ]
+}

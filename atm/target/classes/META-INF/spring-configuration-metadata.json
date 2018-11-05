@@ -1,0 +1,57 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.tomcat360.atm.properties.AppProperties",
+      "name": "appConfig",
+      "type": "com.tomcat360.atm.properties.AppProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.tomcat360.atm.properties.AppProperties",
+      "name": "appConfig.access-key",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.tomcat360.atm.properties.AppProperties",
+      "name": "appConfig.android-url",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.tomcat360.atm.properties.AppProperties",
+      "name": "appConfig.app-name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.tomcat360.atm.properties.AppProperties",
+      "name": "appConfig.app-name-cn",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.tomcat360.atm.properties.AppProperties",
+      "name": "appConfig.base-url",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.tomcat360.atm.properties.AppProperties",
+      "name": "appConfig.ios-url",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.tomcat360.atm.properties.AppProperties",
+      "name": "appConfig.noauth-base-url",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.tomcat360.atm.properties.AppProperties",
+      "name": "appConfig.secret-key",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.tomcat360.atm.properties.AppProperties",
+      "name": "appConfig.token-key",
+      "type": "java.lang.String"
+    }
+  ]
+}

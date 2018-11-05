@@ -1,0 +1,17 @@
+spring:
+  application:
+    name: Server-Center #应用名称
+    
+server:
+  port: 2601   #当前服务端口
+
+eureka:
+  instance:
+    preferIpAddress: true
+    instance-id: ${spring.cloud.client.ipAddress}:${server.port}
+    lease-renewal-interval-in-seconds: 2
+  client:
+    register-with-eureka: true #当前服务不需要注册到eureka服务上注册，自身就是eureka服务
+    fetch-registry: true
+    serviceUrl:
+      defaultZone: http://172.31.38.159:2601/eureka/,http://172.31.35.173:2601/eureka/

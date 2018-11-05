@@ -1,0 +1,82 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.tomcat360.admin.properties.AppProperties",
+      "name": "appConfig",
+      "type": "com.tomcat360.admin.properties.AppProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.tomcat360.admin.properties.AppProperties",
+      "name": "appConfig.access-key",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.tomcat360.admin.properties.AppProperties",
+      "name": "appConfig.app-name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.tomcat360.admin.properties.AppProperties",
+      "name": "appConfig.app-name-cn",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.tomcat360.admin.properties.AppProperties",
+      "name": "appConfig.g-m-t-time-zone",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.tomcat360.admin.properties.AppProperties",
+      "name": "appConfig.log-path",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.tomcat360.admin.properties.AppProperties",
+      "name": "appConfig.merchant-no",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.tomcat360.admin.properties.AppProperties",
+      "name": "appConfig.noauth-base-url",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.tomcat360.admin.properties.AppProperties",
+      "name": "appConfig.resource-path",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.tomcat360.admin.properties.AppProperties",
+      "name": "appConfig.secret-key",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.tomcat360.admin.properties.AppProperties",
+      "name": "appConfig.snap-path",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.tomcat360.admin.properties.AppProperties",
+      "name": "appConfig.time-zone",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.tomcat360.admin.properties.AppProperties",
+      "name": "appConfig.token-day",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.tomcat360.admin.properties.AppProperties",
+      "name": "appConfig.token-key",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.tomcat360.admin.properties.AppProperties",
+      "name": "appConfig.version-file-path",
+      "type": "java.lang.String"
+    }
+  ]
+}
